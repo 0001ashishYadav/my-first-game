@@ -155,7 +155,7 @@ startgameBtnEl.addEventListener("click", () => {
 
     drawHero();
 
-    // drawHitHeroBox();
+    drawHitHeroBox();
 
     // drawCharacter(hero.x, hero.y, hero.size, heroColor, hero.d);
   }, 20);
